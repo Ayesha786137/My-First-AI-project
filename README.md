@@ -10,4 +10,5 @@ I am a BS AI student. This is my first GitHub repository.
 ## About this project:
 This repository will contain my AI projects as I learn
  ## Projects Uploaded
-. Calculator.cpp
+. Calculator.cpp 
+. Organize.cpp
